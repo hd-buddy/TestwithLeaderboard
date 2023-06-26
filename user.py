@@ -1,5 +1,5 @@
 import pickle
-print("\t\t\t !!!!=Welcome=!!!!")
+print("\t\t\t !!!!Welcome!!!!")
 def User():
     print("\tEnter your Choice")
     print("1)Student ")
